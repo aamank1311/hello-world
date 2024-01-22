@@ -1,7 +1,7 @@
 <form action="action_page.php">
   <div class="container">
-    <h1>New user Register for KONTIHENE ODORKORKONTIHENE ODORKOR  MALKALDEN DevOps Learning</h1>
-    <p>Please fill in this form to create an account MALKALDEN SCHOOL.</p>
+    <h1>New user Register for MALKALDEN DevOps Learning</h1>
+    <p>BITTE fill in this form to create an account MALKALDEN SCHOOL.</p>
     <hr>
      
     <label for="Name"><b>Enter Name</b></label>
